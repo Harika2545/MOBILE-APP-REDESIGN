@@ -155,4 +155,8 @@ To conclude the order experience positively and encourage further engagement.
 ✅ Stronger emotional connection through illustrations
 ✅ Seamless end-to-end journey — clear, friendly, and engaging
 
+# **Output**
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3b1a9560-29e8-45f0-a832-1ae0bfe2626d" />
+
 
